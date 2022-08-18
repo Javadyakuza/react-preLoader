@@ -1,5 +1,4 @@
 import React,{useState} from 'react';
-import ReactDOM from 'react-dom/client';
 import {Helmet} from "react-helmet";
 import Loader from './preLoader';
 import "../styles/preview.scss";
